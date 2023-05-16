@@ -1,1 +1,8 @@
 https://raw.githubusercontent.com/pedaneous/playlistx/main/HEXX.txt
+https://raw.githubusercontent.com/pedaneous/playlistx/main/Dark%20HEXX.txt
+https://raw.githubusercontent.com/pedaneous/playlistx/main/Dark%20Moon.txt
+https://raw.githubusercontent.com/pedaneous/playlistx/main/Crystal.txt
+https://raw.githubusercontent.com/pedaneous/playlistx/main/H4CK3R.txt
+https://raw.githubusercontent.com/pedaneous/playlistx/main/Hello%20Kitty.txt
+https://raw.githubusercontent.com/pedaneous/playlistx/main/Light.txt
+https://raw.githubusercontent.com/pedaneous/playlistx/main/Octane.txt
