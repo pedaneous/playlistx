@@ -1,0 +1,4 @@
+topbarcolor DarkRed
+backgroundcolor Maroon
+listbackgroundcolor Maroon
+uitextcolor Black
