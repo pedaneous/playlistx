@@ -1,0 +1,4 @@
+topbarcolor BlueViolet
+backgroundcolor Black
+listbackgroundcolor Black
+uitextcolor White

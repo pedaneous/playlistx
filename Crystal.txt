@@ -1,0 +1,4 @@
+topbarcolor LightSkyBlue
+backgroundcolor CornflowerBlue
+listbackgroundcolor LightSkyBlue
+uitextcolor White

@@ -1,0 +1,4 @@
+topbarcolor HotPink
+backgroundcolor Violet
+listbackgroundcolor Plum
+uitextcolor White
