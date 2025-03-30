@@ -8,7 +8,7 @@
         {"id": 13772394625, "title": "Blade Ball", "image": "https://tr.rbxcdn.com/180DAY-19727caa082c8f2a8b12f69410c44b3f/512/512/Image/Webp/noFilter", "plays": 0, "multi": 1.1},
         {"id": 142823291, "title": "Murder Mystery 2", "image": "https://tr.rbxcdn.com/180DAY-cee6edfb36f7c1d81e9ab0729d084de5/512/512/Image/Webp/noFilter", "plays": 0, "multi": 1.3},
         {"id": 9872472334, "title": "Evade", "image": "https://tr.rbxcdn.com/180DAY-d4a784b1fcd5ef1073d2cb24081be456/256/256/Image/Webp/noFilter", "plays": 0, "multi": 1.2},
-        {"id": 286090429, "title": "Arsenal", "image": "https://tr.rbxcdn.com/180DAY-7c974c4875318916cf061b99a92fd03b/256/256/Image/Webp/noFilter", "plays": 0, "multi": 2.0},
+        {"id": 286090429, "title": "Arsenal", "image": "https://tr.rbxcdn.com/180DAY-7c974c4875318916cf061b99a92fd03b/256/256/Image/Webp/noFilter", "plays": 0, "multi": 1.76},
 {"id": 537413528, "title": "Build A Boat For Treasure", "image": "https://tr.rbxcdn.com/180DAY-2642774e00b871f246810c45f3ec5faf/256/256/Image/Webp/noFilter", "plays": 0, "multi": 1.23}
 
         ],
